@@ -9,3 +9,9 @@ the gates, turning LEDs on/off, and text display on a LCD 16x2.
 
 
 ![Detection](https://user-images.githubusercontent.com/51855856/111080293-ca2b6080-84cb-11eb-8197-d5ee9e010430.png)
+
+
+- Python 3.7
+- OpenCV
+- Arduino
+- Tensorflow 1.15
